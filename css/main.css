@@ -1,0 +1,60 @@
+p {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+a {
+    color:royalblue
+}
+
+
+header {
+    background-color: #4b0082;
+}
+
+body {
+    background-color: indigo;
+    color: white;
+}
+
+footer {
+    background-color: #4b0082;
+}
+
+
+
+
+
+
+
+
+.navigation-link {
+  text-align: center;
+}
+
+.my-picture {
+    display: block;
+    max-width: 25%;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+
+.cat-picture {
+    display: block;
+    max-width: 25%;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
